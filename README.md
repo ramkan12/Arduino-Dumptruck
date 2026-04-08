@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="images/truck-side.jpg" alt="Dump Truck" width="500">
+<img src="images/truck_main.jpg" alt="Dump Truck" width="500">
 
 **An educational hands-on robotics project designed for K-12 students to learn engineering principles**
 
